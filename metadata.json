@@ -1,0 +1,6 @@
+{
+  "name": "Shandel — Catálogo Digital de Pastelería",
+  "description": "Catálogo digital interactivo y panel administrativo para la repostería artesanal Shandel. Explora pasteles de autor, cotiza pedidos personalizados y gestiona el menú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
